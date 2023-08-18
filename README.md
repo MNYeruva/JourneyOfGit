@@ -1,1 +1,1 @@
-# JournyOfGit
+# JourneyOfGit
